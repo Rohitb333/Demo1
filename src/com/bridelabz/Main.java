@@ -6,5 +6,6 @@ public class Main {
         System.out.println("commit from master");
         System.out.println("commit from first branch");
         System.out.println("commit from second branch");
+        System.out.println("commit from Third branch");
     }
 }
